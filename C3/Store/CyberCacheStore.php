@@ -9,7 +9,7 @@
  * Implementation of FPC/default Magento 2 cache store based on CyberCache Cluster.
  */
 
-namespace Cyberhull\CyberCache\C3\Store;
+namespace CyberHULL\CyberCache\C3\Store;
 
 /**
  * Class implementing Zend's `Zend_Cache_Backend_Interface` and

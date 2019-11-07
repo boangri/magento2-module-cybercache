@@ -9,7 +9,7 @@
  * Implementation of session store based on CyberCache Cluster.
  */
 
-namespace Cyberhull\CyberCache\C3\Session;
+namespace CyberHULL\CyberCache\C3\Session;
 
 /**
  * Class implementing standard PHP's `SessionHandlerInterface` using methods
